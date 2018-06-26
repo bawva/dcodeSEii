@@ -1,23 +1,31 @@
 # dcodeSEii
 NSBM Green University - Final Year Project (SEII)
+by Team DCode
+
+Team Members
+15209108 - Dinuka Lankaloka
+16211171 - Waruna Usgoda
+16211152 - Thilanka Ameresekere
+16211148 - Ramkumar Praveen
+16211148 - A. J. S. Subramaniam
+
+###How to Setup and Run the SEII Project “StockTrading” 
+
+####Instruction to setup the database
+Execute the SQL query file (stocktrading.sql) in the Project Folder
 
 
-How to Setup and run the SEII Project “StockTrading” 
+####Instruction to Run the StockTrading Web Application.
+1. Open the Project with IDE.
+2. Goto “Source Packages” -> “m” 
+3. Double click to open the file "conn.java" and set the Database <username> and <password> 
+4. Save the changes made.
+5. Click on “Clean and Build Project” button
+6. Click on Run button.
 
-01)Instruction to setup the database
-	i) Execute the SQL query file ( stocktrading.sql ) in the Project Folder
+Register using First Name, Last Name, Email and a Password. Or use below credentials to login and play with default account.
+* First Name: **Demo**
+* Password: **demo**
 
+Login using First Name & Password 
 
-02)Instruction to Run the StockTrading Web Application.
-
-	i) Open the Project with IDE.
-	ii) Goto “Source Packages” -> “m” 
-	iii) Double click to open the file "conn.java" and set the Database <username> and <password> 
-	iv) Save the changes made.
-	v) Click on “Clean and Build Project” button
-	vi) Click on Run button.
-
-03) Register using First Name , Last Name , email, and password. or 
-	use First Name: "Demo" and Password: "demo" to login and play with default account.
-
-04) Login using First Name & Password 
