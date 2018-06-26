@@ -9,13 +9,13 @@ Team Members
 16211148 - Ramkumar Praveen
 16211148 - A. J. S. Subramaniam
 
-###How to Setup and Run the SEII Project “StockTrading” 
+###How to Setup and Run the SEII Project “StockTrading”###
 
-####Instruction to setup the database
+####Instruction to setup the database####
 Execute the SQL query file (stocktrading.sql) in the Project Folder
 
 
-####Instruction to Run the StockTrading Web Application.
+####Instruction to Run the StockTrading Web Application.####
 1. Open the Project with IDE.
 2. Goto “Source Packages” -> “m” 
 3. Double click to open the file "conn.java" and set the Database <username> and <password> 
